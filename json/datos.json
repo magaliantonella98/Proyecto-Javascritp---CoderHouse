@@ -1,0 +1,170 @@
+[
+{
+    "id": 1,
+    "nombre": "Bulbasaur",
+    "tipo": "PLANTA / VENENO",
+    "imagen": "../imagenes/pokedex/bulbasaur.png"
+},
+{
+    "id": 2,
+    "nombre": "Ivysaur",
+    "tipo": "PLANTA / VENENO",
+    "imagen": "../imagenes/pokedex/ivysaur.png"
+},
+{
+    "id": 3,
+    "nombre": "Venusaur",
+    "tipo": "PLANTA / VENENO",
+    "imagen": "../imagenes/pokedex/venusaur.png"
+},
+{
+    "id": 4,
+    "nombre": "Charmander",
+    "tipo": "FUEGO",
+    "imagen": "../imagenes/pokedex/charmander.png"
+},
+{
+    "id": 5,
+    "nombre": "Charmeleon",
+    "tipo": "FUEGO",
+    "imagen": "../imagenes/pokedex/charmeleon.png"
+},
+{
+    "id": 6,
+    "nombre": "Charizard",
+    "tipo": "FUEGO / VOLADOR",
+    "imagen": "../imagenes/pokedex/charizard.png"
+},
+{
+    "id": 7,
+    "nombre": "Squirtle",
+    "tipo": "AGUA",
+    "imagen": "../imagenes/pokedex/squirtle.png"
+},
+{
+    "id": 8,
+    "nombre": "Wartortle",
+    "tipo": "AGUA",
+    "imagen": "../imagenes/pokedex/wartortle.png"
+},
+{
+    "id": 9,
+    "nombre": "Blastoise",
+    "tipo": "AGUA",
+    "imagen": "../imagenes/pokedex/blastoise.png"
+},
+{
+    "id": 10,
+    "nombre": "Caterpie",
+    "tipo": "BICHO",
+    "imagen": "../imagenes/pokedex/caterpie.png"
+},
+{
+    "id": 11,
+    "nombre": "Metapod",
+    "tipo": "BICHO",
+    "imagen": "../imagenes/pokedex/metapod.png"
+},
+{
+    "id": 12,
+    "nombre": "Butterfree",
+    "tipo": "BICHO / VOLADOR",
+    "imagen": "../imagenes/pokedex/butterfree.png"
+},
+{
+    "id": 13,
+    "nombre": "Weedle",
+    "tipo": "BICHO / VENENO",
+    "imagen": "../imagenes/pokedex/weedle.png"
+},
+{
+    "id": 14,
+    "nombre": "Kakuna",
+    "tipo": "BICHO / VENENO",
+    "imagen": "../imagenes/pokedex/kakuna.png"
+},
+{
+    "id": 15,
+    "nombre": "Beedrill",
+    "tipo": "BICHO / VENENO",
+    "imagen": "../imagenes/pokedex/beedrill.png"
+},
+{
+    "id": 16,
+    "nombre": "Pidgey",
+    "tipo": "NORMAL / VOLADOR",
+    "imagen": "../imagenes/pokedex/pidgey.png"
+},
+{
+    "id": 17,
+    "nombre": "Pidgeotto",
+    "tipo": "NORMAL / VOLADOR",
+    "imagen": "../imagenes/pokedex/pidgeotto.png"
+},
+{
+    "id": 18,
+    "nombre": "Pidgeot",
+    "tipo": "NORMAL / VOLADOR",
+    "imagen": "../imagenes/pokedex/pidgeot.png"
+},
+{
+    "id": 19,
+    "nombre": "Rattata",
+    "tipo": "NORMAL",
+    "imagen": "../imagenes/pokedex/rattata.png"
+},
+{
+    "id": 20,
+    "nombre": "Raticate",
+    "tipo": "NORMAL",
+    "imagen": "../imagenes/pokedex/raticate.png"
+},
+{
+    "id": 21,
+    "nombre": "Spearow",
+    "tipo": "NORMAL / VOLADOR",
+    "imagen": "../imagenes/pokedex/spearow.png"
+},
+{
+    "id": 22,
+    "nombre": "Fearow",
+    "tipo": "NORMAL / VOLADOR",
+    "imagen": "../imagenes/pokedex/fearow.png"
+},
+{
+    "id": 23,
+    "nombre": "Ekans",
+    "tipo": "VENENO",
+    "imagen": "../imagenes/pokedex/ekans.png"
+},
+{
+    "id": 24,
+    "nombre": "Arbok",
+    "tipo": "VENENO",
+    "imagen": "../imagenes/pokedex/arbok.png"
+},
+{
+    "id": 25,
+    "nombre": "Pikachu",
+    "tipo": "ELECTRICO",
+    "imagen": "../imagenes/pokedex/pikachu.png"
+},
+{
+    "id": 26,
+    "nombre": "Raichu",
+    "tipo": "ELECTRICO",
+    "imagen": "../imagenes/pokedex/raichu.png"
+},
+{
+    "id": 27,
+    "nombre": "Sandshrew",
+    "tipo": "TIERRA",
+    "imagen": "../imagenes/pokedex/sandshrew.png"
+},
+{
+    "id": 28,
+    "nombre": "Sandslash",
+    "tipo": "TIERRA",
+    "imagen": "../imagenes/pokedex/sandslash.png"
+}
+]

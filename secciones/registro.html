@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Registro</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="keywords" content="pokemon">
+        <meta name="description" content="Pagina interactiva">
+        <link rel="stylesheet" type="text/css" href="../css/estilo.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Play&display=swap" rel="stylesheet">
+        
+
+    </head>
+    <body>
+        <header>
+                <img id="logoNav" class="logo" src="../imagenes/logo.png" alt="logo">
+            <nav id="nav" class="nav">
+                <ul>
+                    <li><a class="liNav" href="../index.html">VOLVER A INICIO</a></li>
+                </ul>
+            </nav>
+        </header>
+        <article class="contenido">
+
+                <h1>REGISTRARSE</h1>
+
+                <div id="registro" class="registro">
+
+                        <form id="registroFormulario" class="registroFormulario">
+                            
+                            <label for="nombre">
+                                NOMBRE:<input type="text" class="registroDatos inputs" placeholder="Ingresar nombre" required>
+                            </label>
+
+                            <label for="apellido">
+                                APELLIDO:<input type="text" class="registroDatos inputs" placeholder="Ingresar apellido" required>
+                            </label>
+                        
+                            <label for="edad">
+                                EDAD:<input type="number" class="registroDatos inputs" placeholder="Ingresar edad" required>
+                            </label>
+
+                            <input id="formularioSig" type="submit" class="registroDatos boton" value="SIGUENTE">
+                        </form>  
+                </div> 
+        </article>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="../js/funciones.js"></script>
+        <script src="../js/arrays.js"></script>
+        <script src="../js/registro.js"></script>
+    </body>
+</html>

@@ -1,0 +1,3 @@
+mostrarPerfil();
+mostrarElegido();
+showFavs();
